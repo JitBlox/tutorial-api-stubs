@@ -1,4 +1,7 @@
 # Tutorial: API stubs (final)
+This project contains the final result of the JitBlox tutorial [Using mock data and API stubs](https://www.jitblox.com/docs/tutorial/mock-data-and-api-stubs). Check out the tutorial and learn how to create a data-bound work-item dashboard using an API stub and mock data.
+
+![QzhPS4ivI5](https://github.com/JitBlox/tutorial-api-stubs/assets/36327340/cf1bf522-b742-4ef6-be15-69e8d3b6b2ac)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
