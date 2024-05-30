@@ -1,0 +1,7 @@
+.div-1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 400px));
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+
